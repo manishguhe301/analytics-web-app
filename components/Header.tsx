@@ -38,7 +38,7 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <div className='relative px-20 py-5 flex items-center justify-between max-lg:px-10 max-sm:p-4'>
+    <div className='relative px-20 py-5 flex items-center justify-between max-lg:px-10 max-sm:p-4 border-2 border-b-[#F2F4F7]'>
       <div className='pl-8 flex items-center max-lg:pl-6 max-sm:pl-2 '>
         <Image
           src='/assets/logo.svg'
