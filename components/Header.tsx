@@ -2,13 +2,7 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import React from 'react';
-
-const NAV_ITEMS = [
-  { label: 'Home', hasDropdown: false },
-  { label: 'Products', hasDropdown: true },
-  { label: 'Resources', hasDropdown: true },
-  { label: 'Pricing', hasDropdown: false },
-];
+import { NAV_ITEMS } from '@/utils/constants';
 
 const NavLink = ({
   label,
