@@ -22,7 +22,7 @@ export default {
         },
       },
       animation: {
-        flash: 'flash 0.3s ease-in-out',
+        flash: 'flash 0.1s ease-in-out',
       },
     },
   },
