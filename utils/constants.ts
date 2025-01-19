@@ -4,3 +4,12 @@ export const NAV_ITEMS = [
   { label: 'Resources', hasDropdown: true },
   { label: 'Pricing', hasDropdown: false },
 ];
+
+export const COMPANIES_HERO_SECTION_IMAGES = [
+  '/assets/boltshift.svg',
+  '/assets/lightbox.svg',
+  '/assets/featherdev.svg',
+  '/assets/spherule.svg',
+  '/assets/globalbank.svg',
+  '/assets/nietz.svg',
+]
