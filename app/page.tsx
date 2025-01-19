@@ -1,3 +1,4 @@
+import BlogsSection from '@/components/BlogsSection';
 import Features from '@/components/Features';
 import Feedback from '@/components/Feedback';
 import FrequentlyAsked from '@/components/FrequentlyAsked';
@@ -14,6 +15,7 @@ export default function Home() {
       <Feedback />
       <FrequentlyAsked />
       <StillHaveQuestions />
+      <BlogsSection />
     </div>
   );
 }

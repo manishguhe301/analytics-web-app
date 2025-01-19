@@ -3,7 +3,7 @@ import React from 'react';
 
 const StillHaveQuestions = () => {
   return (
-    <div className='flex flex-col justify-center items-center mb-24 max-sm:mb-16'>
+    <div className='flex flex-col justify-center items-center '>
       <div className='w-[80%] flex flex-col items-center justify-center h-[298px] bg-[#F9FAFB] gap-8 max-md:w-[90%] max-sm:w-full'>
         <Image
           src='/assets/avatargroup.svg'
