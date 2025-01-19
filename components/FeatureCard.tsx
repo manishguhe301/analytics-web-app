@@ -15,9 +15,9 @@ const FeatureCard = ({ feature }: { feature: Feature }) => {
         alt='feature-image'
         width={48}
         height={48}
-        className='mb-4'
+        className='mb-4 max-sm:h-10 max-sm:w-10'
       />
-      <p className='font-semibold text-xl text-[#101828] leading-7 text-center pb-2'>
+      <p className='font-semibold text-xl text-[#101828] leading-7 text-center pb-2 max-sm:text-lg'>
         {feature.title}
       </p>
       <p className='text-base text-[#475467] leading-6 font-normal text-center'>

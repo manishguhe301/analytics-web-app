@@ -1,4 +1,5 @@
 import Features from '@/components/Features';
+import Feedback from '@/components/Feedback';
 import Header from '@/components/Header';
 import HeroSection from '@/components/HeroSection';
 
@@ -8,6 +9,7 @@ export default function Home() {
       <Header />
       <HeroSection />
       <Features />
+      <Feedback />
     </div>
   );
 }
