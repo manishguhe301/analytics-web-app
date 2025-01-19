@@ -1,6 +1,7 @@
 import BlogsSection from '@/components/BlogsSection';
 import Features from '@/components/Features';
 import Feedback from '@/components/Feedback';
+import Footer from '@/components/Footer';
 import FreeTrial from '@/components/FreeTrial';
 import FrequentlyAsked from '@/components/FrequentlyAsked';
 import Header from '@/components/Header';
@@ -18,6 +19,7 @@ export default function Home() {
       <StillHaveQuestions />
       <BlogsSection />
       <FreeTrial />
+      <Footer />
     </div>
   );
 }
