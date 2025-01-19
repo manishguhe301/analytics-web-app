@@ -74,7 +74,7 @@ const HeroSection = () => {
             ))}
           </div>
         </div>
-        <hr className='my-24 w-full border-[#EAECF0] max-sm:w-[90%]' />
+        <hr className='my-24 w-full border-[#EAECF0] max-sm:w-[90%] max-sm:my-16' />
       </div>
     </div>
   );
