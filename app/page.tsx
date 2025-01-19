@@ -3,6 +3,7 @@ import Feedback from '@/components/Feedback';
 import FrequentlyAsked from '@/components/FrequentlyAsked';
 import Header from '@/components/Header';
 import HeroSection from '@/components/HeroSection';
+import StillHaveQuestions from '@/components/StillHaveQuestions';
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Features />
       <Feedback />
       <FrequentlyAsked />
+      <StillHaveQuestions />
     </div>
   );
 }
