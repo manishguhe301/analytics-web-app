@@ -15,6 +15,15 @@ export default {
       fontFamily: {
         inter: ['var(--font-inter)', 'sans-serif'],
       },
+      keyframes: {
+        flash: {
+          '0%, 100%': { opacity: '1' },
+          '50%': { opacity: '0' },
+        },
+      },
+      animation: {
+        flash: 'flash 0.3s ease-in-out',
+      },
     },
   },
   plugins: [],

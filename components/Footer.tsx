@@ -9,25 +9,25 @@ const Footer = () => {
           <h6 className='font-semibold text-[14px] text-[#667085] leading-5'>
             Product
           </h6>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Overview
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Features
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467] flex items-center gap-2'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer flex items-center gap-2'>
             Solutions{' '}
             <span className='px-2 bg-[#ECFDF3] border border-[#ABEFC6] rounded-2xl text-[#067647] text-[12px]'>
               New
             </span>
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Tutorials
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Pricing
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Releases
           </p>
         </div>
@@ -36,22 +36,22 @@ const Footer = () => {
           <h6 className='font-semibold text-[14px] text-[#667085] leading-5'>
             Company
           </h6>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             About us
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Careers
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467] flex items-center gap-2'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer flex items-center gap-2'>
             Press{' '}
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             News
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Media kit
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Contact
           </p>
         </div>
@@ -60,22 +60,22 @@ const Footer = () => {
           <h6 className='font-semibold text-[14px] text-[#667085] leading-5'>
             Resources
           </h6>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Blog
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Newsletter
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467] flex items-center gap-2'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer flex items-center gap-2'>
             Events{' '}
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Help centre
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Tutorials
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Support
           </p>
         </div>
@@ -84,22 +84,22 @@ const Footer = () => {
           <h6 className='font-semibold text-[14px] text-[#667085] leading-5'>
             Use cases
           </h6>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Startups
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Enterprise
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467] flex items-center gap-2'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer flex items-center gap-2'>
             Government{' '}
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             SaaS centre
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Marketplaces
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Ecommerce
           </p>
         </div>
@@ -108,22 +108,22 @@ const Footer = () => {
           <h6 className='font-semibold text-[14px] text-[#667085] leading-5'>
             Social
           </h6>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Twitter
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             LinkedIn
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467] flex items-center gap-2'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer flex items-center gap-2'>
             Facebook{' '}
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             GitHub
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             AngelList
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Dribbble
           </p>
         </div>
@@ -132,22 +132,22 @@ const Footer = () => {
           <h6 className='font-semibold text-[14px] text-[#667085] leading-5'>
             Legal
           </h6>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Terms
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Privacy
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467] flex items-center gap-2'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer flex items-center gap-2'>
             Cookies{' '}
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Licenses
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Settings
           </p>
-          <p className='font-semibold text-base leading-6 text-[#475467]'>
+          <p className='font-semibold text-base leading-6 text-[#475467] hover:animate-flash cursor-pointer'>
             Contact
           </p>
         </div>
