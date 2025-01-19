@@ -41,3 +41,25 @@ export const FEATURES_DATA = [
     description: 'We’re an extension of your customer service team, and all of our resources are free. Chat to our friendly team 24/7 when you need help.'
   },
 ]
+
+export const FREQENTLY_ASKED_DATA = [
+  {
+    question: 'Is there a free trial available?',
+    answer: 'Yes, you can try us for free for 30 days. If you want, we’ll provide you with a free, personalized 30-minute onboarding call to get you up and running as soon as possible.'
+  }, {
+    question: 'Can I change my plan later?',
+    answer: 'Yes, you can upgrade or downgrade at any time. Just go to the billing page and change your plan whenever you’d like.'
+  }, {
+    question: 'What is your cancellation policy?',
+    answer: 'You can cancel your account at any time. There are no cancellation fees – however, we’d be sorry to see you go.'
+  }, {
+    question: 'Can other info be added to an invoice?',
+    answer: 'Yes, you can add notes to invoices, including order or tracking numbers.'
+  }, {
+    question: 'How does billing work?',
+    answer: 'Billing is handled by Stripe. You’ll receive one bill each month that covers all of your subscriptions. You can view your invoices in the billing portal.'
+  }, {
+    question: 'How do I change my account email?',
+    answer: 'You can change your account email in the billing portal. Once you’ve changed your email, you’ll receive a confirmation email with a link to update your password.'
+  },
+]
